@@ -1,6 +1,6 @@
 {
   "name": "jssha",
-  "main": "./src/jssha256.js",
+  "main": "./src/sha256.js",
   "version": "1.5.1",
   "dependencies": {
   }
